@@ -1,0 +1,6 @@
+[submodule "ClimateControlApp"]
+	path = ClimateControlApp
+	url = git@github.com:NikeGolf36/ClimateControlApp.git
+[submodule "ESP32_Sensor"]
+	path = ESP32_Sensor
+	url = git@github.com:NikeGolf36/ESP32_Sensor.git
